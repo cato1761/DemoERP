@@ -1,0 +1,8 @@
+# Dolibarr language file - Source file is en_US - agenda
+PropalClosedSignedInDolibarr=Quotation %s signed
+PropalClosedRefusedInDolibarr=Quotation %s refused
+PropalValidatedInDolibarr=Quotation %s validated
+PropalClassifiedBilledInDolibarr=Quotation %s classified billed
+ProposalSentByEMail=Quotation %s sent by EMail
+AgendaUrlOptionsProject=<b>project=__PROJECT_ID__</b> to restrict output to actions linked to project <b>__PROJECT_ID__</b>.
+AgendaExtNb=Calendar no. %s
